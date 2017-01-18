@@ -3,3 +3,4 @@ mars is red
 mars is cold
 mars has 2 moons, phobos and deimos
 mars has polar caps
+mars has the Valles Marineris
