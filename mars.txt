@@ -1,5 +1,5 @@
 Mars:
 mars is red
-mars is warm#
+mars is hot on one side and cold on the other
 can i catch a train to mars.
 This is cool when collaborating with GIT.
